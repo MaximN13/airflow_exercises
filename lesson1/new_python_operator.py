@@ -17,7 +17,7 @@ dag = DAG(
 )
 
 def create_common_file():
-    flag_first_write = True
+    flag_first_write = True #TODO 
     content = list()
     str_list = list()
     content_filter = list()
